@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="769" height="274" viewBox="0 0 769 274">
+  <g id="Grupo_28770" data-name="Grupo 28770" transform="translate(-299 -4355)">
+    <g id="Grupo_28673" data-name="Grupo 28673" transform="translate(0 25)">
+      <path id="Trazado_64878" data-name="Trazado 64878" d="M-12522.3-7233h72" transform="translate(12824 11700)" fill="none" stroke="#9b235c" stroke-width="2"/>
+      <path id="Trazado_64883" data-name="Trazado 64883" d="M-12450.3-7233h-72" transform="translate(13258.899 11700)" fill="none" stroke="#907789" stroke-width="2"/>
+      <path id="Trazado_64879" data-name="Trazado 64879" d="M-12412.4-7282h-42.6v49.3" transform="translate(12828 11700)" fill="none" stroke="#657d89" stroke-width="2"/>
+      <path id="Trazado_64882" data-name="Trazado 64882" d="M-12455-7282h42.6v49.3" transform="translate(13149.7 11700)" fill="none" stroke="#657d89" stroke-width="2"/>
+      <path id="Trazado_64880" data-name="Trazado 64880" d="M-12412.4-7192.8h-42.6V-7282" transform="translate(12828 11749)" fill="none" stroke="#437795" stroke-width="2"/>
+      <path id="Trazado_64881" data-name="Trazado 64881" d="M-12455-7192.8h42.6V-7282" transform="translate(13149.7 11749)" fill="none" stroke="#437795" stroke-width="2"/>
+      <g id="Grupo_28672" data-name="Grupo 28672">
+        <g id="Rectángulo_5431" data-name="Rectángulo 5431" transform="translate(299 4603) rotate(-90)" fill="#9b235c" stroke="#9b235c" stroke-width="2">
+          <rect width="272" height="54" rx="12" stroke="none"/>
+          <rect x="1" y="1" width="270" height="52" rx="11" fill="none"/>
+        </g>
+        <text id="Planificación" transform="translate(319 4517) rotate(-90)" fill="#fff" font-size="16" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="17">Planificación</tspan></text>
+        <g id="Rectángulo_5432" data-name="Rectángulo 5432" transform="translate(767 4389)" fill="#907789" stroke="#907789" stroke-width="2">
+          <rect width="301" height="54" rx="13" stroke="none"/>
+          <rect x="1" y="1" width="299" height="52" rx="12" fill="none"/>
+        </g>
+        <g id="Rectángulo_5433" data-name="Rectángulo 5433" transform="translate(767 4432)" fill="#fff" stroke="#907789" stroke-width="2">
+          <path d="M0,0H301a0,0,0,0,1,0,0V101a12,12,0,0,1-12,12H12A12,12,0,0,1,0,101V0A0,0,0,0,1,0,0Z" stroke="none"/>
+          <path d="M2,1H299a1,1,0,0,1,1,1v99a11,11,0,0,1-11,11H12A11,11,0,0,1,1,101V2A1,1,0,0,1,2,1Z" fill="none"/>
+        </g>
+        <text id="Fase_3:_Estrategias_y_plan_de_desarrollo" data-name="Fase 3: Estrategias y plan de desarrollo" transform="translate(787 4403)" fill="#fff" font-size="15" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="16">Fase 3:</tspan><tspan y="16" xml:space="preserve" font-family="Roboto-Bold, Roboto" font-weight="700"> Estrategias y plan de desarrollo</tspan></text>
+        <text id="Evaluación_de_los_riesgos_Estrategia_de_protección_Ponderación_de_los_riesgos_Planes_de_reducción_de_los_riesgos" data-name="Evaluación de los riesgos
+Estrategia de protección
+Ponderación de los riesgos
+Planes de reducción de los riesgos" transform="translate(810.691 4451.694)" fill="#00223d" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">Evaluación de los riesgos</tspan><tspan x="0" y="36">Estrategia de protección</tspan><tspan x="0" y="57">Ponderación de los riesgos</tspan><tspan x="0" y="78">Planes de reducción de los riesgos</tspan></text>
+        <path id="Trazado_64874" data-name="Trazado 64874" d="M1048.708,537.318a.521.521,0,0,1-.152.367l-4.73,4.73a.518.518,0,0,1-.733,0l-1.826-1.824a.536.536,0,0,1,0-.733l2.54-2.54-2.54-2.539a.518.518,0,0,1-.152-.367h0a.521.521,0,0,1,.152-.367l1.826-1.823a.517.517,0,0,1,.732,0l4.73,4.728A.513.513,0,0,1,1048.708,537.318Zm-5.248,4,4-4-4-4-1.093,1.091,2.539,2.539a.533.533,0,0,1,0,.733l-2.54,2.539Z" transform="translate(-242.022 3922.417)" fill="#907789"/>
+        <path id="Trazado_64875" data-name="Trazado 64875" d="M1048.708,537.318a.521.521,0,0,1-.152.367l-4.73,4.73a.518.518,0,0,1-.733,0l-1.826-1.824a.536.536,0,0,1,0-.733l2.54-2.54-2.54-2.539a.518.518,0,0,1-.152-.367h0a.521.521,0,0,1,.152-.367l1.826-1.823a.517.517,0,0,1,.732,0l4.73,4.728A.513.513,0,0,1,1048.708,537.318Zm-5.248,4,4-4-4-4-1.093,1.091,2.539,2.539a.533.533,0,0,1,0,.733l-2.54,2.539Z" transform="translate(-242.022 3942.911)" fill="#907789"/>
+        <path id="Trazado_64876" data-name="Trazado 64876" d="M1048.708,537.318a.521.521,0,0,1-.152.367l-4.73,4.73a.518.518,0,0,1-.733,0l-1.826-1.824a.536.536,0,0,1,0-.733l2.54-2.54-2.54-2.539a.518.518,0,0,1-.152-.367h0a.521.521,0,0,1,.152-.367l1.826-1.823a.517.517,0,0,1,.732,0l4.73,4.728A.513.513,0,0,1,1048.708,537.318Zm-5.248,4,4-4-4-4-1.093,1.091,2.539,2.539a.533.533,0,0,1,0,.733l-2.54,2.539Z" transform="translate(-242.022 3962.473)" fill="#907789"/>
+        <path id="Trazado_64877" data-name="Trazado 64877" d="M1048.708,537.318a.521.521,0,0,1-.152.367l-4.73,4.73a.518.518,0,0,1-.733,0l-1.826-1.824a.536.536,0,0,1,0-.733l2.54-2.54-2.54-2.539a.518.518,0,0,1-.152-.367h0a.521.521,0,0,1,.152-.367l1.826-1.823a.517.517,0,0,1,.732,0l4.73,4.728A.513.513,0,0,1,1048.708,537.318Zm-5.248,4,4-4-4-4-1.093,1.091,2.539,2.539a.533.533,0,0,1,0,.733l-2.54,2.539Z" transform="translate(-242.022 3983.898)" fill="#907789"/>
+        <g id="Rectángulo_5426" data-name="Rectángulo 5426" transform="translate(409 4330)" fill="#657d89" stroke="#657d89" stroke-width="2">
+          <rect width="302" height="56" rx="13" stroke="none"/>
+          <rect x="1" y="1" width="300" height="54" rx="12" fill="none"/>
+        </g>
+        <g id="Rectángulo_5427" data-name="Rectángulo 5427" transform="translate(409 4373)" fill="#fff" stroke="#657d89" stroke-width="2">
+          <path d="M0,0H302a0,0,0,0,1,0,0V94a12,12,0,0,1-12,12H12A12,12,0,0,1,0,94V0A0,0,0,0,1,0,0Z" stroke="none"/>
+          <path d="M2,1H300a1,1,0,0,1,1,1V94a11,11,0,0,1-11,11H12A11,11,0,0,1,1,94V2A1,1,0,0,1,2,1Z" fill="none"/>
+        </g>
+        <text id="Fase_1:_Visión_Organizativa" data-name="Fase 1: Visión Organizativa" transform="translate(463 4344)" fill="#fff" font-size="15" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="16">Fase 1: </tspan><tspan y="16" font-family="Roboto-Bold, Roboto" font-weight="700">Visión Organizativa</tspan></text>
+        <text id="Activos_Amenazas_Vulnerabilidad_Organización_Requerimientos_de_seguridad" data-name="Activos
+Amenazas
+Vulnerabilidad Organización
+Requerimientos de seguridad" transform="translate(452.982 4385.555)" fill="#00223d" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">Activos</tspan><tspan x="0" y="36">Amenazas</tspan><tspan x="0" y="57">Vulnerabilidad Organización</tspan><tspan x="0" y="78">Requerimientos de seguridad</tspan></text>
+        <path id="Trazado_64866" data-name="Trazado 64866" d="M1048.708,537.318a.521.521,0,0,1-.152.367l-4.73,4.73a.518.518,0,0,1-.733,0l-1.826-1.824a.536.536,0,0,1,0-.733l2.54-2.54-2.54-2.539a.518.518,0,0,1-.152-.367h0a.521.521,0,0,1,.152-.367l1.826-1.823a.517.517,0,0,1,.732,0l4.73,4.728A.513.513,0,0,1,1048.708,537.318Zm-5.248,4,4-4-4-4-1.093,1.091,2.539,2.539a.533.533,0,0,1,0,.733l-2.54,2.539Z" transform="translate(-599.731 3856.278)" fill="#657d89"/>
+        <path id="Trazado_64867" data-name="Trazado 64867" d="M1048.708,537.318a.521.521,0,0,1-.152.367l-4.73,4.73a.518.518,0,0,1-.733,0l-1.826-1.824a.536.536,0,0,1,0-.733l2.54-2.54-2.54-2.539a.518.518,0,0,1-.152-.367h0a.521.521,0,0,1,.152-.367l1.826-1.823a.517.517,0,0,1,.732,0l4.73,4.728A.513.513,0,0,1,1048.708,537.318Zm-5.248,4,4-4-4-4-1.093,1.091,2.539,2.539a.533.533,0,0,1,0,.733l-2.54,2.539Z" transform="translate(-599.731 3876.772)" fill="#657d89"/>
+        <path id="Trazado_64868" data-name="Trazado 64868" d="M1048.708,537.318a.521.521,0,0,1-.152.367l-4.73,4.73a.518.518,0,0,1-.733,0l-1.826-1.824a.536.536,0,0,1,0-.733l2.54-2.54-2.54-2.539a.518.518,0,0,1-.152-.367h0a.521.521,0,0,1,.152-.367l1.826-1.823a.517.517,0,0,1,.732,0l4.73,4.728A.513.513,0,0,1,1048.708,537.318Zm-5.248,4,4-4-4-4-1.093,1.091,2.539,2.539a.533.533,0,0,1,0,.733l-2.54,2.539Z" transform="translate(-599.731 3896.334)" fill="#657d89"/>
+        <path id="Trazado_64869" data-name="Trazado 64869" d="M1048.708,537.318a.521.521,0,0,1-.152.367l-4.73,4.73a.518.518,0,0,1-.733,0l-1.826-1.824a.536.536,0,0,1,0-.733l2.54-2.54-2.54-2.539a.518.518,0,0,1-.152-.367h0a.521.521,0,0,1,.152-.367l1.826-1.823a.517.517,0,0,1,.732,0l4.73,4.728A.513.513,0,0,1,1048.708,537.318Zm-5.248,4,4-4-4-4-1.093,1.091,2.539,2.539a.533.533,0,0,1,0,.733l-2.54,2.539Z" transform="translate(-599.731 3917.76)" fill="#657d89"/>
+        <g id="Rectángulo_5429" data-name="Rectángulo 5429" transform="translate(409 4495)" fill="#437795" stroke="#437795" stroke-width="2">
+          <rect width="302" height="56" rx="12" stroke="none"/>
+          <rect x="1" y="1" width="300" height="54" rx="11" fill="none"/>
+        </g>
+        <text id="Fase_2:_Visión_Tecnológica" data-name="Fase 2: Visión Tecnológica" transform="translate(463 4508)" fill="#fff" font-size="15" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="16">Fase 2: </tspan><tspan y="16" font-family="Roboto-Bold, Roboto" font-weight="700">Visión Tecnológica</tspan></text>
+        <g id="Rectángulo_5430" data-name="Rectángulo 5430" transform="translate(409 4538)" fill="#fff" stroke="#437795" stroke-width="2">
+          <path d="M0,0H302a0,0,0,0,1,0,0V54a12,12,0,0,1-12,12H12A12,12,0,0,1,0,54V0A0,0,0,0,1,0,0Z" stroke="none"/>
+          <path d="M2,1H300a1,1,0,0,1,1,1V54a11,11,0,0,1-11,11H12A11,11,0,0,1,1,54V2A1,1,0,0,1,2,1Z" fill="none"/>
+        </g>
+        <text id="Componentes_técnicos_Vulnerabilidades_técnicas" data-name="Componentes técnicos
+Vulnerabilidades técnicas" transform="translate(452.982 4551.368)" fill="#00223d" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">Componentes técnicos</tspan><tspan x="0" y="36">Vulnerabilidades técnicas</tspan></text>
+        <path id="Trazado_64873" data-name="Trazado 64873" d="M1048.708,537.318a.521.521,0,0,1-.152.367l-4.73,4.73a.518.518,0,0,1-.733,0l-1.826-1.824a.536.536,0,0,1,0-.733l2.54-2.54-2.54-2.539a.518.518,0,0,1-.152-.367h0a.521.521,0,0,1,.152-.367l1.826-1.823a.517.517,0,0,1,.732,0l4.73,4.728A.513.513,0,0,1,1048.708,537.318Zm-5.248,4,4-4-4-4-1.093,1.091,2.539,2.539a.533.533,0,0,1,0,.733l-2.54,2.539Z" transform="translate(-599.731 4022.092)" fill="#437795"/>
+        <path id="Trazado_64870" data-name="Trazado 64870" d="M1048.708,537.318a.521.521,0,0,1-.152.367l-4.73,4.73a.518.518,0,0,1-.733,0l-1.826-1.824a.536.536,0,0,1,0-.733l2.54-2.54-2.54-2.539a.518.518,0,0,1-.152-.367h0a.521.521,0,0,1,.152-.367l1.826-1.823a.517.517,0,0,1,.732,0l4.73,4.728A.513.513,0,0,1,1048.708,537.318Zm-5.248,4,4-4-4-4-1.093,1.091,2.539,2.539a.533.533,0,0,1,0,.733l-2.54,2.539Z" transform="translate(-599.731 4042.585)" fill="#437795"/>
+      </g>
+      <g id="Polígono_11" data-name="Polígono 11" transform="translate(411 4413) rotate(90)" fill="#657d89">
+        <path d="M 9.150241851806641 8.5 L 0.8497577905654907 8.5 L 5 1.029564023017883 L 9.150241851806641 8.5 Z" stroke="none"/>
+        <path d="M 5 2.059127807617188 L 1.699515342712402 8 L 8.300484657287598 8 L 5 2.059127807617188 M 5 0 L 10 9 L 0 9 L 5 0 Z" stroke="none" fill="#fff"/>
+      </g>
+      <g id="Polígono_12" data-name="Polígono 12" transform="translate(411 4551) rotate(90)" fill="#437795">
+        <path d="M 9.150241851806641 8.5 L 0.8497577905654907 8.5 L 5 1.029564023017883 L 9.150241851806641 8.5 Z" stroke="none"/>
+        <path d="M 5 2.059127807617188 L 1.699515342712402 8 L 8.300484657287598 8 L 5 2.059127807617188 M 5 0 L 10 9 L 0 9 L 5 0 Z" stroke="none" fill="#fff"/>
+      </g>
+      <g id="Polígono_13" data-name="Polígono 13" transform="translate(770 4462) rotate(90)" fill="#907789">
+        <path d="M 9.150241851806641 8.5 L 0.8497577905654907 8.5 L 5 1.029564023017883 L 9.150241851806641 8.5 Z" stroke="none"/>
+        <path d="M 5 2.059127807617188 L 1.699515342712402 8 L 8.300484657287598 8 L 5 2.059127807617188 M 5 0 L 10 9 L 0 9 L 5 0 Z" stroke="none" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

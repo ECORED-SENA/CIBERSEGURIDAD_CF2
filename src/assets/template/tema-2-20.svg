@@ -1,0 +1,270 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="828.075" height="584.999" viewBox="0 0 828.075 584.999">
+  <defs>
+    <filter id="Rectángulo_25730" x="425.075" y="76.499" width="403" height="67" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_25734" x="425.075" y="320.499" width="403" height="67" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_25731" x="425.075" y="137.499" width="403" height="67" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_25732" x="425.075" y="198.499" width="403" height="67" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_25735" x="425.075" y="381.499" width="403" height="67" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_25733" x="425.075" y="259.499" width="403" height="67" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_25736" x="425.075" y="442.499" width="403" height="67" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_25721" x="181.837" y="81.499" width="280" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_25723" x="181.837" y="203.499" width="280" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_25726" x="181.837" y="386.499" width="280" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_25727" x="181.837" y="447.499" width="280" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_25722" x="181.837" y="142.499" width="280" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_25724" x="181.837" y="264.499" width="280" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_25725" x="181.837" y="325.499" width="280" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-14"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Unión_1" x="0" y="0" width="174.839" height="125.999" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Unión_2" x="0" y="459" width="174.839" height="125.999" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-16"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_28772" data-name="Grupo 28772" transform="translate(-269.001 -9811.501)">
+    <g id="Grupo_28722" data-name="Grupo 28722" transform="translate(20.076 -25)">
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25730)">
+        <g id="Rectángulo_25730-2" data-name="Rectángulo 25730" transform="translate(434.08 82.5)" fill="#ffc23b" stroke="#c2942d" stroke-width="1">
+          <rect width="385" height="49" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="384" height="48" rx="4.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25734)">
+        <g id="Rectángulo_25734-2" data-name="Rectángulo 25734" transform="translate(434.08 326.5)" fill="#ffc23b" stroke="#c2942d" stroke-width="1">
+          <rect width="385" height="49" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="384" height="48" rx="4.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25731)">
+        <g id="Rectángulo_25731-2" data-name="Rectángulo 25731" transform="translate(434.08 143.5)" fill="#ffc23b" stroke="#c2942d" stroke-width="1">
+          <rect width="385" height="49" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="384" height="48" rx="4.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25732)">
+        <g id="Rectángulo_25732-2" data-name="Rectángulo 25732" transform="translate(434.08 204.5)" fill="#ffc23b" stroke="#c2942d" stroke-width="1">
+          <rect width="385" height="49" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="384" height="48" rx="4.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25735)">
+        <g id="Rectángulo_25735-2" data-name="Rectángulo 25735" transform="translate(434.08 387.5)" fill="#ffc23b" stroke="#c2942d" stroke-width="1">
+          <rect width="385" height="49" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="384" height="48" rx="4.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25733)">
+        <g id="Rectángulo_25733-2" data-name="Rectángulo 25733" transform="translate(434.08 265.5)" fill="#ffc23b" stroke="#c2942d" stroke-width="1">
+          <rect width="385" height="49" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="384" height="48" rx="4.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25736)">
+        <g id="Rectángulo_25736-2" data-name="Rectángulo 25736" transform="translate(434.08 448.5)" fill="#ffc23b" stroke="#c2942d" stroke-width="1">
+          <rect width="385" height="49" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="384" height="48" rx="4.5" fill="none"/>
+        </g>
+      </g>
+      <path id="Trazado_65130" data-name="Trazado 65130" d="M-12276-1769v21.3" transform="translate(12846.762 11725)" fill="none" stroke="#2d5368" stroke-width="2"/>
+      <path id="Polígono_14" data-name="Polígono 14" d="M5,0l5,10H0Z" transform="translate(575.762 9985) rotate(180)" fill="#2d5368"/>
+      <path id="Polígono_17" data-name="Polígono 17" d="M5,0l5,10H0Z" transform="translate(575.762 9924) rotate(180)" fill="#701842"/>
+      <path id="Polígono_18" data-name="Polígono 18" d="M5,0l5,10H0Z" transform="translate(414.762 10361) rotate(-90)" fill="#701842"/>
+      <g id="Grupo_28718" data-name="Grupo 28718" transform="translate(18.762 147)">
+        <path id="Trazado_65130-2" data-name="Trazado 65130" d="M-12276-1769v21.3" transform="translate(12828 11700)" fill="none" stroke="#46565f" stroke-width="2"/>
+        <path id="Polígono_14-2" data-name="Polígono 14" d="M5,0l5,10H0Z" transform="translate(557 9960) rotate(180)" fill="#46565f"/>
+      </g>
+      <g id="Grupo_28721" data-name="Grupo 28721" transform="translate(18.762 330)">
+        <path id="Trazado_65130-3" data-name="Trazado 65130" d="M-12276-1769v21.3" transform="translate(12828 11700)" fill="none" stroke="#46565f" stroke-width="2"/>
+        <path id="Polígono_14-3" data-name="Polígono 14" d="M5,0l5,10H0Z" transform="translate(557 9960) rotate(180)" fill="#46565f"/>
+      </g>
+      <g id="Grupo_28717" data-name="Grupo 28717" transform="translate(18.762 86)">
+        <path id="Trazado_65130-4" data-name="Trazado 65130" d="M-12276-1769v21.3" transform="translate(12828 11700)" fill="none" stroke="#2d5368" stroke-width="2"/>
+        <path id="Polígono_14-4" data-name="Polígono 14" d="M5,0l5,10H0Z" transform="translate(557 9960) rotate(180)" fill="#2d5368"/>
+      </g>
+      <g id="Grupo_28719" data-name="Grupo 28719" transform="translate(18.762 208)">
+        <path id="Trazado_65130-5" data-name="Trazado 65130" d="M-12276-1769v21.3" transform="translate(12828 11700)" fill="none" stroke="#2d5368" stroke-width="2"/>
+        <path id="Polígono_14-5" data-name="Polígono 14" d="M5,0l5,10H0Z" transform="translate(557 9960) rotate(180)" fill="#2d5368"/>
+      </g>
+      <g id="Grupo_28720" data-name="Grupo 28720" transform="translate(18.762 269)">
+        <path id="Trazado_65130-6" data-name="Trazado 65130" d="M-12276-1769v21.3" transform="translate(12828 11700)" fill="none" stroke="#2d5368" stroke-width="2"/>
+        <path id="Polígono_14-6" data-name="Polígono 14" d="M5,0l5,10H0Z" transform="translate(557 9960) rotate(180)" fill="#2d5368"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25721)">
+        <g id="Rectángulo_25721-2" data-name="Rectángulo 25721" transform="translate(190.84 87.5)" fill="#437795" stroke="#2d5368" stroke-width="1">
+          <rect width="262" height="39" stroke="none"/>
+          <rect x="0.5" y="0.5" width="261" height="38" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25723)">
+        <g id="Rectángulo_25723-2" data-name="Rectángulo 25723" transform="translate(190.84 209.5)" fill="#657d89" stroke="#46565f" stroke-width="1">
+          <rect width="262" height="39" stroke="none"/>
+          <rect x="0.5" y="0.5" width="261" height="38" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25726)">
+        <g id="Rectángulo_25726-2" data-name="Rectángulo 25726" transform="translate(190.84 392.5)" fill="#657d89" stroke="#46565f" stroke-width="1">
+          <rect width="262" height="39" stroke="none"/>
+          <rect x="0.5" y="0.5" width="261" height="38" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25727)">
+        <g id="Rectángulo_25727-2" data-name="Rectángulo 25727" transform="translate(190.84 453.5)" fill="#657d89" stroke="#46565f" stroke-width="1">
+          <rect width="262" height="39" stroke="none"/>
+          <rect x="0.5" y="0.5" width="261" height="38" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25722)">
+        <g id="Rectángulo_25722-2" data-name="Rectángulo 25722" transform="translate(190.84 148.5)" fill="#437795" stroke="#2d5368" stroke-width="1">
+          <rect width="262" height="39" stroke="none"/>
+          <rect x="0.5" y="0.5" width="261" height="38" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25724)">
+        <g id="Rectángulo_25724-2" data-name="Rectángulo 25724" transform="translate(190.84 270.5)" fill="#437795" stroke="#2d5368" stroke-width="1">
+          <rect width="262" height="39" stroke="none"/>
+          <rect x="0.5" y="0.5" width="261" height="38" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Rectángulo_25725)">
+        <g id="Rectángulo_25725-2" data-name="Rectángulo 25725" transform="translate(190.84 331.5)" fill="#437795" stroke="#2d5368" stroke-width="1">
+          <rect width="262" height="39" stroke="none"/>
+          <rect x="0.5" y="0.5" width="261" height="38" fill="none"/>
+        </g>
+      </g>
+      <text id="Evaluation_of_natural_exposure" data-name="Evaluation of natural exposure" transform="translate(488.762 9937)" fill="#fff" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="13">Evaluation of natural exposure</tspan></text>
+      <text id="Assistance_provided_by_Mehari:" data-name="Assistance provided by Mehari:" transform="translate(683 9894.5)" fill="#2d2d2d" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-84.715" y="13">Assistance provided by Mehari:</tspan></text>
+      <text id="Evaluation_of_Potentiality" data-name="Evaluation of Potentiality" transform="translate(488.762 10059)" fill="#fff" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="13">Evaluation of Potentiality</tspan></text>
+      <text id="Evaluation_of_impact_reduction_Evaluation_of_impact" data-name="Evaluation of impact reduction
+Evaluation of impact" transform="translate(488.762 10234)" fill="#fff" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="13">Evaluation of impact reduction</tspan><tspan x="0" y="28">Evaluation of impact</tspan></text>
+      <text id="Global_Risk_evaluation" data-name="Global Risk evaluation" transform="translate(488.762 10304)" fill="#fff" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="13">Global Risk evaluation</tspan></text>
+      <text id="Evaluation_of_dissuasive_and_preventive_factors" data-name="Evaluation of dissuasive
+and preventive factors" transform="translate(488.762 9989)" fill="#fff" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="13">Evaluation of dissuasive</tspan><tspan x="0" y="28">and preventive factors</tspan></text>
+      <text id="Evaluation_of_intrinsic_impact" data-name="Evaluation of intrinsic impact" transform="translate(488.762 10119)" fill="#fff" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="13">Evaluation of intrinsic impact</tspan></text>
+      <text id="Evaluation_of_protective_palliative_and_recuperative_factors" data-name="Evaluation of protective, palliative
+and recuperative factors" transform="translate(487.762 10173)" fill="#fff" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="13">Evaluation of protective, palliative</tspan><tspan x="0" y="28">and recuperative factors</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Unión_1)">
+        <g id="Unión_1-2" data-name="Unión 1" transform="translate(-12819 -11694)" fill="#9b235c">
+          <path d="M 12932.74609375 11806.76953125 L 12932.74609375 11783.58203125 L 12932.74609375 11783.08203125 L 12932.24609375 11783.08203125 L 12828.4990234375 11783.08203125 L 12828.4990234375 11724.9189453125 L 12932.24609375 11724.9189453125 L 12932.74609375 11724.9189453125 L 12932.74609375 11724.4189453125 L 12932.74609375 11701.2314453125 L 12984.1396484375 11753.9990234375 L 12932.74609375 11806.76953125 Z" stroke="none"/>
+          <path d="M 12933.24609375 11805.5400390625 L 12983.4423828125 11753.9990234375 L 12933.24609375 11702.4609375 L 12933.24609375 11724.4189453125 L 12933.24609375 11725.4189453125 L 12932.24609375 11725.4189453125 L 12828.9990234375 11725.4189453125 L 12828.9990234375 11782.58203125 L 12932.24609375 11782.58203125 L 12933.24609375 11782.58203125 L 12933.24609375 11783.58203125 L 12933.24609375 11805.5400390625 M 12932.24609375 11808 L 12932.24609375 11783.58203125 L 12827.9990234375 11783.58203125 L 12827.9990234375 11724.4189453125 L 12932.24609375 11724.4189453125 L 12932.24609375 11700.0009765625 L 12984.837890625 11753.9990234375 L 12932.24609375 11808 Z" stroke="none" fill="#701842"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 248.92, 9836.5)" filter="url(#Unión_2)">
+        <g id="Unión_2-2" data-name="Unión 2" transform="translate(165.84 573) rotate(180)" fill="#9b235c">
+          <path d="M 104.7470703125 106.76904296875 L 104.7470703125 83.5810546875 L 104.7470703125 83.0810546875 L 104.2470703125 83.0810546875 L 0.4999935925006866 83.0810546875 L 0.4999935925006866 24.91797256469727 L 104.2470703125 24.91797256469727 L 104.7470703125 24.91797256469727 L 104.7470703125 24.41797256469727 L 104.7470703125 1.230046629905701 L 156.1409301757813 54.00096130371094 L 104.7470703125 106.76904296875 Z" stroke="none"/>
+          <path d="M 105.2470703125 2.4600830078125 L 105.2470703125 24.41796875 L 105.2470703125 25.41796875 L 104.2470703125 25.41796875 L 1 25.41796875 L 1 82.5810546875 L 104.2470703125 82.5810546875 L 105.2470703125 82.5810546875 L 105.2470703125 83.5810546875 L 105.2470703125 105.5390167236328 L 155.4429626464844 54.00095367431641 L 105.2470703125 2.4600830078125 M 104.2470703125 -7.62939453125e-06 L 156.8388671875 54.00097274780273 L 104.2470703125 107.9990081787109 L 104.2470703125 83.5810546875 L 0 83.5810546875 L 0 24.41796875 L 104.2470703125 24.41796875 L 104.2470703125 -7.62939453125e-06 Z" stroke="none" fill="#701842"/>
+        </g>
+      </g>
+      <text id="Identification_of_a_Risk_situation" data-name="Identification of a Risk situation" transform="translate(278.762 9882)" fill="#fff" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="13">Identification of a </tspan><tspan x="0" y="29">Risk situation</tspan></text>
+      <text id="Decisión_on_whether_Risk_is_acceptable" data-name="Decisión on whether Risk is acceptable" transform="translate(299.762 10341)" fill="#fff" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="13">Decisión on whether </tspan><tspan x="0" y="29">Risk is acceptable</tspan></text>
+      <path id="Trazado_65131" data-name="Trazado 65131" d="M-12275-1808v-27.333h-157.267" transform="translate(12845.762 11732)" fill="none" stroke="#701842" stroke-width="2"/>
+      <path id="Trazado_65132" data-name="Trazado 65132" d="M-12275-1835.333V-1808h-157.267" transform="translate(12845.762 12164)" fill="none" stroke="#701842" stroke-width="2"/>
+      <text id="If_standard_Mehari_scenario_or_similar:_Standard_exposure_table._Comments_in_the_global_knowledge_base." data-name="If standard Mehari scenario or similar:
+Standard exposure table.
+Comments in the global knowledge base." transform="translate(732 9924)" fill="#2d2d2d" font-size="11" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="12">If standard Mehari scenario or similar:</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="25">Standard exposure table.</tspan><tspan x="0" y="38">Comments in the global knowledge base.</tspan></tspan></text>
+      <text id="If_standard_Mehari_scenario_or_similar:_Comments_in_the_global_knowledge_base_automated_STATUS_calculation_if_prior_audit." data-name="If standard Mehari scenario or similar:
+Comments in the global knowledge base automated
+STATUS calculation if prior audit." transform="translate(732 9985)" fill="#2d2d2d" font-size="11" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="12">If standard Mehari scenario or similar:</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="25">Comments in the global knowledge base automated</tspan><tspan x="0" y="38">STATUS calculation if prior audit.</tspan></tspan></text>
+      <text id="If_standard_Mehari_scenario_or_similar:_Comments_in_the_global_knowledge_base_automated_STATUS_calculation_if_prior_audit.-2" data-name="If standard Mehari scenario or similar:
+Comments in the global knowledge base automated
+STATUS calculation if prior audit." transform="translate(732 10169)" fill="#2d2d2d" font-size="11" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="12">If standard Mehari scenario or similar:</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="25">Comments in the global knowledge base automated</tspan><tspan x="0" y="38">STATUS calculation if prior audit.</tspan></tspan></text>
+      <text id="Standard_or_enterprise-specific_decisión_tables_depending_on_risk_situation." data-name="Standard or enterprise-specific decisión tables,
+depending on risk situation." transform="translate(732 10054)" fill="#2d2d2d" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="12">Standard or enterprise-specific decisión tables,</tspan><tspan x="0" y="25">depending on risk situation.</tspan></text>
+      <text id="Standard_or_enterprise-specific_decisión_tables_depending_on_risk_situation.-2" data-name="Standard or enterprise-specific decisión tables,
+depending on risk situation." transform="translate(732 10237)" fill="#2d2d2d" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="12">Standard or enterprise-specific decisión tables,</tspan><tspan x="0" y="25">depending on risk situation.</tspan></text>
+      <text id="Scale_of_malfunction_values_Or_predefined_classification." data-name="Scale of malfunction values Or predefined classification." transform="translate(732 10121)" fill="#2d2d2d" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="12">Scale of malfunction values Or predefined classification.</tspan></text>
+      <text id="Standard_or_enterprise-specific_risk_acceptability_tables." data-name="Standard or enterprise-specific risk acceptability tables." transform="translate(732 10304)" fill="#2d2d2d" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="12">Standard or enterprise-specific risk acceptability tables.</tspan></text>
+    </g>
+  </g>
+</svg>

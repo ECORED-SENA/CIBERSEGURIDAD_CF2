@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="825" height="260" viewBox="0 0 825 260">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#68a3de"/>
+      <stop offset="1" stop-color="#28335d"/>
+    </linearGradient>
+    <filter id="Rectángulo_25809" x="380" y="217" width="15" height="15" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_28773" data-name="Grupo 28773" transform="translate(-270.5 -12239.5)">
+    <g id="Grupo_28763" data-name="Grupo 28763">
+      <g id="Grupo_28728" data-name="Grupo 28728" transform="translate(-1 -29)">
+        <g id="Grupo_28727" data-name="Grupo 28727" transform="translate(-35 63)">
+          <g id="Grupo_28726" data-name="Grupo 28726">
+            <g id="Elipse_1314" data-name="Elipse 1314" transform="translate(307 12264)" fill="#fff" stroke="#f5a809" stroke-width="10">
+              <circle cx="61" cy="61" r="61" stroke="none"/>
+              <circle cx="61" cy="61" r="56" fill="none"/>
+            </g>
+            <text id="High" transform="translate(344 12311.5)" fill="#111e61" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="23">High</tspan></text>
+          </g>
+          <text id="Advisory_ID:_First_Published:_Versión_1.0:_Workarounds:_Cisco_Bug_Ids:_CVSS_Score:" data-name="Advisory ID:
+First Published:
+Versión 1.0:
+Workarounds:
+Cisco Bug Ids:
+
+
+
+CVSS Score:" transform="translate(487 12237)" fill="#111e61" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Advisory ID:</tspan><tspan x="0" y="38">First Published:</tspan><tspan x="0" y="61">Versión 1.0:</tspan><tspan x="0" y="84">Workarounds:</tspan><tspan x="0" y="107">Cisco Bug Ids:</tspan><tspan x="0" y="130"></tspan><tspan x="0" y="153"></tspan><tspan x="0" y="176"></tspan><tspan x="0" y="199">CVSS Score:</tspan></text>
+          <text id="cisco-sa-nxos-ipip-dos-kCT9X4_2020_June_1_16:00_GMT_Final_Yes_CSCun536663_CSCvt66624_CSCvt67738_More..._Base_8.6" data-name="cisco-sa-nxos-ipip-dos-kCT9X4
+2020 June 1 16:00 GMT
+Final
+Yes
+CSCun536663
+CSCvt66624
+CSCvt67738
+More...
+Base 8.6" transform="translate(623 12237)" fill="#111e61" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">cisco-sa-nxos-ipip-dos-kCT9X4</tspan><tspan x="0" y="38">2020 June 1 16:00 GMT</tspan><tspan fill="#437795"><tspan x="0" y="61">Final</tspan><tspan x="0" y="84">Yes</tspan><tspan x="0" y="107">CSCun536663</tspan><tspan x="0" y="130">CSCvt66624</tspan><tspan x="0" y="153">CSCvt67738</tspan><tspan x="0" y="176">More...</tspan><tspan x="0" y="199">Base 8.6</tspan></tspan></text>
+          <text id="CVE-2020-10136_CWE-19" data-name="CVE-2020-10136
+CWE-19" transform="translate(865 12237)" fill="#111e61" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">CVE-2020-10136</tspan><tspan x="0" y="38">CWE-19</tspan></text>
+          <text id="Download_CVRF_Download_PDF_Email" data-name="Download CVRF
+Download PDF
+Email" transform="translate(1018 12237)" fill="#437795" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Download CVRF</tspan><tspan x="0" y="38">Download PDF</tspan><tspan x="0" y="61">Email</tspan></text>
+          <path id="Icon_material-email" data-name="Icon material-email" d="M11.579,6H3.953A.952.952,0,0,0,3,6.953l0,5.72a.956.956,0,0,0,.953.953h7.626a.956.956,0,0,0,.953-.953V6.953A.956.956,0,0,0,11.579,6Zm0,1.907L7.766,10.29,3.953,7.907V6.953L7.766,9.336l3.813-2.383Z" transform="translate(1000 12281.906)" fill="#437795"/>
+          <path id="Icon_awesome-download" data-name="Icon awesome-download" d="M4.826,0H6.613a.535.535,0,0,1,.536.536V4.29H9.109a.446.446,0,0,1,.315.762l-3.4,3.4a.433.433,0,0,1-.61,0l-3.4-3.4a.446.446,0,0,1,.315-.762H4.29V.536A.535.535,0,0,1,4.826,0Zm6.613,8.4v2.5a.535.535,0,0,1-.536.536H.536A.535.535,0,0,1,0,10.9V8.4a.535.535,0,0,1,.536-.536H3.814L4.909,8.959a1.145,1.145,0,0,0,1.622,0L7.625,7.864H10.9A.535.535,0,0,1,11.439,8.4Zm-2.77,1.966a.447.447,0,1,0-.447.447A.448.448,0,0,0,8.669,10.367Zm1.43,0a.447.447,0,1,0-.447.447A.448.448,0,0,0,10.1,10.367Z" transform="translate(1002 12237)" fill="#437795"/>
+          <path id="Icon_awesome-file-download" data-name="Icon awesome-file-download" d="M5,3.039V0H.536A.535.535,0,0,0,0,.536V10.9a.535.535,0,0,0,.536.536H8.043a.535.535,0,0,0,.536-.536V3.575H5.541A.538.538,0,0,1,5,3.039ZM6.713,7.761,4.558,9.9a.381.381,0,0,1-.537,0L1.867,7.761a.357.357,0,0,1,.251-.611H3.575V5.362A.357.357,0,0,1,3.932,5h.715A.357.357,0,0,1,5,5.362V7.149H6.461A.358.358,0,0,1,6.713,7.761Zm1.71-5.415L6.236.156A.536.536,0,0,0,5.856,0H5.72V2.86h2.86V2.724A.534.534,0,0,0,8.423,2.346Z" transform="translate(1003 12261.561)" fill="#437795"/>
+        </g>
+        <line id="Línea_280" data-name="Línea 280" x2="823" transform="translate(272.5 12269.5)" fill="none" stroke="#437795" stroke-linecap="round" stroke-width="2" stroke-dasharray="0 4"/>
+        <line id="Línea_281" data-name="Línea 281" x2="823" transform="translate(272.5 12527.5)" fill="none" stroke="#437795" stroke-linecap="round" stroke-width="2" stroke-dasharray="0 4"/>
+      </g>
+      <g id="Grupo_28762" data-name="Grupo 28762">
+        <g transform="matrix(1, 0, 0, 1, 270.5, 12239.5)" filter="url(#Rectángulo_25809)">
+          <rect id="Rectángulo_25809-2" data-name="Rectángulo 25809" width="12" height="12" rx="1" transform="translate(381.5 217.5)" fill="url(#linear-gradient)"/>
+        </g>
+        <g id="Grupo_28761" data-name="Grupo 28761">
+          <g id="Icon_ionic-ios-document" data-name="Icon ionic-ios-document" transform="translate(647.688 12455.081)">
+            <path id="Trazado_65287" data-name="Trazado 65287" d="M20.852,5.246h1.2a.065.065,0,0,0,.066-.066h0a.389.389,0,0,0-.141-.3l-1-.837a.423.423,0,0,0-.271-.1h0a.1.1,0,0,0-.1.1V5A.25.25,0,0,0,20.852,5.246Z" transform="translate(-10.802 -0.006)" fill="#fff"/>
+            <path id="Trazado_65288" data-name="Trazado 65288" d="M9.457,4.99V3.938H7.734a.422.422,0,0,0-.421.421V8.78a.422.422,0,0,0,.421.421h3.158a.422.422,0,0,0,.421-.421v-3.2H10.049A.593.593,0,0,1,9.457,4.99Z" fill="#fff"/>
+          </g>
+          <g id="Icon_ionic-ios-document-2" data-name="Icon ionic-ios-document" transform="translate(649.688 12457.081)">
+            <path id="Trazado_65287-2" data-name="Trazado 65287" d="M20.852,5.246h1.2a.065.065,0,0,0,.066-.066h0a.389.389,0,0,0-.141-.3l-1-.837a.423.423,0,0,0-.271-.1h0a.1.1,0,0,0-.1.1V5A.25.25,0,0,0,20.852,5.246Z" transform="translate(-10.802 -0.006)" fill="#fff" stroke="#4b70a4" stroke-width="0.2"/>
+            <path id="Trazado_65288-2" data-name="Trazado 65288" d="M9.457,4.99V3.938H7.734a.422.422,0,0,0-.421.421V8.78a.422.422,0,0,0,.421.421h3.158a.422.422,0,0,0,.421-.421v-3.2H10.049A.593.593,0,0,1,9.457,4.99Z" fill="#fff" stroke="#4b70a4" stroke-width="0.2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
