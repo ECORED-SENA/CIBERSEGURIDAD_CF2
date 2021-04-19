@@ -6,9 +6,6 @@
       .banner-interno__titulo.py-4.col-12.col-sm-7
         .banner-interno__titulo__icono.me-3(v-if="icono.length")
           i(:class="icono")
-        h1.h3.mb-0 {{globalData.componenteFormativo}}
-      .d-none.d-sm-flex.align-self-center.d-lg-block.col-5.col-lg-4.col-xl-3.offset-lg-1.offset-xl-2.align-self-end.w-lg-50
-        img(:src="globalData.imagenBannerPrincipal").w-75
 </template>
 
 <script>

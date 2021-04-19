@@ -5,7 +5,7 @@
     .acordion__header.mb-3(@click="selected = selected != elm.id ? elm.id : 0")
       .d-flex.align-items-center
         .acordion__accion(v-if="tipo === 'a'")
-          .acordion__accion__btn--a.h6.mb-0.me-3
+          .acordion__accion__btn--a.h5.mb-0.me-3.text-white
             i.fas.fa-minus(v-if="selected === elm.id")
             i.fas.fa-plus(v-else)
 

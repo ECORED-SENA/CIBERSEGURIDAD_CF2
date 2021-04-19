@@ -5,7 +5,7 @@
     :class="[!controlLinks.back.name && 'barra-avance__boton--disable']"
     :to="{name: controlLinks.back.name, hash: controlLinks.back.hash ? `#${controlLinks.back.hash}` : ''}"
   )
-    i.me-2(class="fas fa-angle-left")
+    i.me-2(class="fas fa-angle-left" style="color: #111e61 ;")
     span Regresar
   
   //- .barra-avance__barra
@@ -16,8 +16,9 @@
     :class="[!controlLinks.next.name && 'barra-avance__boton--disable']"
     :to="{name: controlLinks.next.name, hash: controlLinks.next.hash ? `#${controlLinks.next.hash}` : ''}"
   )
-    span.me-2 Continuar
-    i(class="fas fa-angle-right")
+    span.me-2.text-white Continuar
+    i(class="fas fa-angle-right").text-white
+    
 
 </template>
 

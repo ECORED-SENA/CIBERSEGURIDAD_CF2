@@ -1,9 +1,12 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5(style='margin-top: -50px')
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
-      .h3.text-center 2. Metodologías de análisis y valuación de activos
+      .titulo-principal__numero
+        .h3
+          i.fas.fa-info
+      .h3 2. Metodologías de análisis y valuación de activos
     .row
       .titulo-segundo.mt-5
         #t_2_1.h4 2.1 MAGERIT
@@ -12,8 +15,13 @@
         p.mt-3 La razón de ser de MAGERIT está directamente relacionada con la generalización del uso de las tecnologías de la información, que supone unos beneficios evidentes para los ciudadanos; pero también da lugar a ciertos riesgos que deben minimizarse con medidas de seguridad que generen confianza. 
         p.mt-3 En el periodo transcurrido desde la publicación de la primera versión de MAGERIT (1997) hasta la fecha, el análisis de riesgos se ha venido consolidando como paso necesario para la gestión de la seguridad.
         p.mt-3 La Evaluación del riesgo es fundamental para llevar a cabo planes de seguridad y de contingencia dentro de la organización, para poder gestionarlos y hacerse riguroso frente a posibles ataques a los datos y la información tanto de la organización, como de los servicios que presta.
-      .col-4.d-none.d-lg-flex.mt-3.offset-1
-        img(src='@/assets/template/tema-2-1.svg', alt='')
+      .col-5.d-none.d-lg-block
+        .imagen-titulo--izq
+          figure.mb-5
+            img(src='@/assets/template/tema-2-1.svg', alt='Texto que describa la imagen')
+
+          .imagen-titulo__titulo
+            .h4.m-0.text-white MAGERIT
       .h5.mt-5 2.1.1 Objetivos de MAGERIT
     .row.mt-5.border-y.py-4
       .col-2.align-self-center.justify-content-center
@@ -160,8 +168,13 @@
       .col-12.col-lg-7.align-self-center.px-5
         p.mt-3  Es un método de evaluación y de gestión de los riesgos para garantizar la seguridad del sistema informático, desarrollado por el estándar internacional ISO270001.
         p.mt-3 El núcleo central de OCTAVE es un conjunto de criterios (principios, atributos y resultados) a partir de los cuales se pueden desarrollar diversas metodologías.
-      .col-2.d-none.col-lg-4.d-lg-flex.mt-4.offset-1
-        img(src='@/assets/template/tema-2-9.svg', alt='')
+      .col-2.d-none.col-lg-4.d-lg-block.mt-4.offset-1
+        .imagen-titulo--izq
+          figure.mb-5
+            img(src='@/assets/template/tema-2-9.svg', alt='Texto que describa la imagen')
+
+          .imagen-titulo__titulo
+            .h4.m-0.text-white OCTAVE
     .row.mt-5      
       .col-12
         AcordionA.mb-0(clase-tarjeta="tarjeta tarjeta-").border-top.mb-0

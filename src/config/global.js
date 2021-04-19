@@ -2,7 +2,7 @@ export const global = {
   componenteFormativo: 'Metodologías de análisis y valuación de riesgos ',
   descripcionCurso:
     'En el componente formativo se exponen las metodologías de análisis y valuación de activos más usadas en el desarrollo de sistemas de gestión de seguridad de la información y en particular se muestra el proceso utilizando para ello la NIST SP-830.',
-  imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+  imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   programaFormacion: 'Apropiación de los conceptos en ciberseguridad',
   imagenBannerSubPrincipal: require('@/assets/curso/imagen-banner-subp.svg'),
