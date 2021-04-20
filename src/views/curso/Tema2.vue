@@ -6,7 +6,7 @@
       .titulo-principal__numero
         .h3
           i.title-num 2
-      .h3 Metodologías de análisis y valuación de activos
+      .h3 Metodologías de análisis y evaluación de activos
     .row
       .titulo-segundo.mt-5
         #t_2_1.h4 2.1 MAGERIT
@@ -462,7 +462,7 @@
       table
         thead(style="border-color: #FFC23B;")
           tr(style="background-color: #9B235C;")
-            th(colspan="3").text-white Valuación de las Amenazas
+            th(colspan="3").text-white Evaluación de las Amenazas
           tr(style="background-color: #DEE4F0;")
             th Naturales
             th Humanas
@@ -648,15 +648,15 @@
                 p Humedad 
                 p Polvo
     .row.mt-5
-      .h5.mt-5 2.5.1 Valuación de amenazas
-      p.mt-4 El proceso de valuación de las amenazas se hace para cada activo en cada una de las categorías al igual que en el caso anterior tomaremos como ejemplo una categoría para realizar el proceso.
-      p.mt-5.text-center #[strong Valuación de Amenazas]
+      .h5.mt-5 2.5.1 Evaluación de amenazas
+      p.mt-4 El proceso de evaluación de las amenazas se hace para cada activo en cada una de las categorías al igual que en el caso anterior tomaremos como ejemplo una categoría para realizar el proceso.
+      p.mt-5.text-center #[strong Evaluación de Amenazas]
       .col-8.offset-2
         .tabla-a.my-2
         table.border-table
           thead
             tr 
-              th(colspan = "5") Valuación de Amenazas
+              th(colspan = "5") Evaluación de Amenazas
             tr
               th Activo
               th A. Naturales
@@ -986,8 +986,8 @@
                 p.text-center BAJA
               th 
                 p Causa daño aislado, que no perjudica a ningún componente de la organización.
-    p.mt-5 A continuación, se presenta a manera de ejemplo como sería el proceso general de la valuación del riesgo.
-    h6.text-center.mt-5 Ejemplo Valuación del Riesgo
+    p.mt-5 A continuación, se presenta a manera de ejemplo como sería el proceso general de la evaluación del riesgo.
+    h6.text-center.mt-5 Ejemplo Evaluación del Riesgo
     .row
       .col-12
         .tabla-a.my-2
@@ -1116,7 +1116,7 @@
               .h5 Implantar medidas para mitigarlo
               p.mt-3 Por ejemplo, contratando un acceso a internet de respaldo para poder acceder a los servicios en la nube en caso de que la línea principal haya caído.
     .h5.mt-5 2.5.7 Documentación de resultados
-    p.my-3 En esta fase realizamos el informe correspondiente a la valoración de riesgos que incluye la valuación, el plan de tratamiento de riesgos incluyendo los controles a implementar.
+    p.my-3 En esta fase realizamos el informe correspondiente a la valoración de riesgos que incluye la evaluación, el plan de tratamiento de riesgos incluyendo los controles a implementar.
 
 </template>
 
