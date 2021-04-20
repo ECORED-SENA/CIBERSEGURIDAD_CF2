@@ -1,5 +1,5 @@
 export const global = {
-  componenteFormativo: 'Metodologías de análisis y valuación de riesgos ',
+  componenteFormativo: 'Metodologías de análisis y evaluación de riesgos ',
   descripcionCurso:
     'En el componente formativo se exponen las metodologías de análisis y valuación de activos más usadas en el desarrollo de sistemas de gestión de seguridad de la información y en particular se muestra el proceso utilizando para ello la NIST SP-830.',
   imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
@@ -26,7 +26,7 @@ export const menuPrincipal = {
       icono: 'far fa-file-alt',
       numero: '1',
       titulo:
-        'Características de las metodologías de análisis y valuación de riesgos',
+        'Características de las metodologías de análisis y evaluación de riesgos',
       desarrolloContenidos: true,
       subMenu: [
         {
