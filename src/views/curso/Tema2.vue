@@ -5,8 +5,8 @@
     .titulo-principal
       .titulo-principal__numero
         .h3
-          i.fas.fa-info
-      .h3 2. Metodologías de análisis y valuación de activos
+          i.title-num 2
+      .h3 Metodologías de análisis y valuación de activos
     .row
       .titulo-segundo.mt-5
         #t_2_1.h4 2.1 MAGERIT
