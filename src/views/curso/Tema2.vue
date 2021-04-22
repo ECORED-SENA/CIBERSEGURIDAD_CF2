@@ -465,7 +465,7 @@
             th Entorno
         tbody
           tr
-            td.bg-white
+            td.bg-white(style="vertical-align: top !important;")
               .col-10.offset-1.pt-2
                 i.fas.fa-angle-right.color-c.px-3
                 | Terremoto
@@ -481,7 +481,7 @@
               .col-10.offset-1.pt-2
                 i.fas.fa-angle-right.color-c.px-3
                 | Huracanes     
-            td.bg-white 
+            td.bg-white(style="vertical-align: top !important;") 
               .col-10.offset-1.pt-2
                 .row
                   .col-1
