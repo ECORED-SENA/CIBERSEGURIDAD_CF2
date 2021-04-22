@@ -129,13 +129,13 @@ export const creditos = {
   contenidoInstruccional: [
     {
       nombre: 'Rafael Neftalí Lizcano Reyes',
-      cargo: 'Asesor pedagógico',
+      cargo: 'Asesor metodológico y pedagógico',
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander',
     },
     {
       nombre: 'Henry Eduardo Bastidas Paruma',
-      cargo: 'Experta temático',
+      cargo: 'Experto temático',
       centro: 'Centro de Comercio y Servicios',
       regional: 'Regional Tolima',
     },
