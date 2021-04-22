@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Grupo_21149" data-name="Grupo 21149" transform="translate(-1004 -1273)">
+    <g id="Grupo_1183" data-name="Grupo 1183" transform="translate(1004 1273)">
+      <rect id="Rectángulo_687" data-name="Rectángulo 687" width="50" height="50" rx="5" fill="#ebf1ff"/>
+    </g>
+    <g id="Grupo_4403" data-name="Grupo 4403" transform="translate(1014 1280)">
+      <path id="Trazado_724" data-name="Trazado 724" d="M2.836-.049,18-.053c.986.986,6.905,6.892,8.975,8.962V32.532a2.836,2.836,0,0,1-2.836,2.836H2.836A2.836,2.836,0,0,1,0,32.532V2.787A2.836,2.836,0,0,1,2.836-.049Z" transform="translate(3.326 0.062)" fill="#fff"/>
+      <g id="Grupo_1192" data-name="Grupo 1192">
+        <path id="Trazado_722" data-name="Trazado 722" d="M1487.684,662.327h-15.115a2.938,2.938,0,0,0-2.935,2.935v29.547a2.938,2.938,0,0,0,2.935,2.935h21.105a2.938,2.938,0,0,0,2.935-2.935V671.252Zm7.276,32.482a1.288,1.288,0,0,1-1.286,1.286h-21.105a1.287,1.287,0,0,1-1.286-1.286V665.262a1.288,1.288,0,0,1,1.286-1.286H1487l.008.008v7.946h7.946l.005.005Z" transform="translate(-1466.33 -662.327)" fill="#9b235c"/>
+        <path id="Trazado_723" data-name="Trazado 723" d="M1445.5,942.435a1.072,1.072,0,0,1-1.082,1.055h-23.806a1.072,1.072,0,0,1-1.082-1.055V931.882a1.072,1.072,0,0,1,1.082-1.055h23.806a1.072,1.072,0,0,1,1.082,1.055Z" transform="translate(-1419.534 -913.118)" fill="#9b235c"/>
+        <text id="PDF" transform="translate(12.001 26.887)" fill="#f8f8f8" font-size="8" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.04em" style="isolation: isolate"><tspan x="-9.068" y="0">PDF</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

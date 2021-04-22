@@ -6,7 +6,7 @@
       .titulo-principal__numero
         .h3
           i.title-num 2
-      .h3 2. Metodologías de análisis y valuación de activos
+      .h3 Metodologías de análisis y evaluación de activos
     .row
       .titulo-segundo.mt-5
         #t_2_1.h4 2.1 MAGERIT
@@ -18,7 +18,7 @@
       .col-5.d-none.d-lg-block
         .imagen-titulo--izq
           figure.mb-5
-            img(src='@/assets/template/tema-2-1.png', alt='Texto que describa la imagen')
+            img(src='@/assets/template/tema-2-1.svg', alt='Texto que describa la imagen')
 
           .imagen-titulo__titulo
             .h4.m-0.text-white MAGERIT
@@ -99,10 +99,11 @@
       
       .col-12.col-md-8
         p.mb-4 #[strong La metodología consta de tres volúmenes:]
-        AcordionA.mb-0(clase-tarjeta="tarjeta-border-top")
+        AcordionA.mb-0(clase-tarjeta="tarjeta tarjeta-").borde-y-punteado.mb-0
           .row(titulo="Volumen I")
             .col-12
               p Método, es el volumen principal en el que se explica detalladamente la metodología.
+        AcordionA.mb-0(clase-tarjeta="tarjeta tarjeta-").borde-y-punteado.mb-0
           .row(titulo="Volumen II")
             .col-12
               p Catálogo de elementos, complementa el volumen principal proporcionando diversos inventarios de utilidad en la aplicación de la metodología. Los inventarios que incluye son:
@@ -119,6 +120,7 @@
                 li.mb-0 
                   i.fas.fa-angle-right
                   | Salvaguardas
+        AcordionA.mb-0(clase-tarjeta="tarjeta tarjeta-").borde-y-punteado.mb-0
           .row(titulo="Volumen III")
             .col-12
               p Guía de técnicas, complementa el volumen principal proporcionando una introducción de algunas de técnicas a utilizar en las distintas fases del análisis de riesgos. Las técnicas que recoge son:
@@ -159,7 +161,7 @@
     p.mb-4.text-center #[strong La metodología MAGERIT se puede resumir gráficamente de la siguiente forma:]      
     .row.bg-amarillo-claro
       .col-12.col-md-8.offset-md-3.py-4
-        img(src='@/assets/template/tema-2-8.png', alt='')
+        img(src='@/assets/template/tema-2-8.svg', alt='')
     .row
       .titulo-segundo.mt-5
         #t_2_2.h4 2.2	Metodología OCTAVE (Operationally Critical Threat, Asset and Vulnerability Evaluation)
@@ -175,8 +177,8 @@
             .h4.m-0.text-white OCTAVE
     .row.mt-5      
       .col-12
-        AcordionA.mb-0(clase-tarjeta="tarjeta-border-top")
-          .row(titulo="2.2.1 Objetivos")
+        AcordionA.mb-0(clase-tarjeta="tarjeta tarjeta-").border-top.mb-0
+          .row(titulo="2.1.1 Objetivos")
             .col-12.col-md-9
               ul.lista-ul.px-4.mt-4
                 li.mb-0 
@@ -187,18 +189,19 @@
                   | Identificación y evaluación de los riesgos que afectan la seguridad dentro de una organización. 
                 li.mb-0 
                   i.fas.fa-angle-right
-                  | Exige llevar a cabo la evaluación de la organización y del personal de la tecnología de información.
+                  | Exige llevar la evaluación de la organización y del personal de la tecnología de información.
               p.px-4.mt-4 #[strong OCTAVE divide los activos en dos tipos que son:]
               ul.lista-ul.px-4.mt-4
                 li.mb-0 
                   i.fas.fa-angle-right
-                  | Sistemas (Hardware, Software y Datos).
+                  | Permitir la comprensión del manejo de los recursos.
                 li.mb-0 
                   i.fas.fa-angle-right
-                  | Personas.
+                  | Identificación
             .col-md-2.d-none.d-md-flex.align-self-center
               img(src='@/assets/template/tema-2-10.svg', alt='').w-75
-          .row(titulo="2.2.2 Equipo de Análisis de Riesgos ")
+        AcordionA.mb-0(clase-tarjeta="tarjeta tarjeta-").border-top.mb-0
+          .row(titulo="2.1.2 Equipo de Análisis de Riesgos ")
             .col-12.col-md-9
               p #[strong Debe existir un equipo de Análisis el cual tiene las siguientes funciones:]
               ul.lista-ul.px-4.mt-4
@@ -213,13 +216,14 @@
                   | Relación de amenazas y vulnerabilidades. 
                 li.mb-0.mt-1 
                   i.fas.fa-angle-right
-                  | Evaluación de riesgos.
+                  | Evaluación riesgos.
                 li.mb-0.mt-1 
                   i.fas.fa-angle-right
-                  | Creación de estrategia de protección, planes de mitigación y diseño de políticas de seguridad.
+                  | Creación estrategia de protección, planes de mitigación y diseño de políticas de seguridad.
             .col-md-2.d-none.d-md-flex.align-self-center
               img(src='@/assets/template/tema-2-11.svg', alt='').w-75
-          .row(titulo="2.2.3 Fases del método propuesto por OCTAVE ")
+        AcordionA.mb-0(clase-tarjeta="tarjeta tarjeta-").border-top.mb-0
+          .row(titulo="2.1.3 Fases del método propuesto por OCTAVE ")
             .col-12.col-md-9
               ul.lista-ul.mt-4
                 li.mb-0
@@ -245,7 +249,7 @@
     .row.bg-gris
       .col-12.px-5
         p.pt-4.text-center #[strong El método OCTAVE se resume en las siguientes fases:]
-        img(src='@/assets/template/tema-2-13.png', alt='').py-4.px-5
+        img(src='@/assets/template/tema-2-13.svg', alt='').py-4.px-5
     .row
       .titulo-segundo.mt-5
         #t_2_3.h4 2.3 Metodología CORAS (Construct a platform for risk analysis of security critical system)
@@ -338,7 +342,7 @@
             p #[strong Tratamiento del riesgo: ] identificación de las salvaguardas necesarias, y realización de análisis coste/beneficio.
         .row.mt-4
           .col-12
-            img(src='@/assets/template/tema-2-15.png', alt='')
+            img(src='@/assets/template/tema-2-15.svg', alt='')
     .row
       .titulo-segundo.mt-5
         #t_2_4.h4 2.4 Metodología MEHARI
@@ -348,7 +352,7 @@
       p.mt-4 La principal orientación de MEHARI es la evaluación y reducción de riesgos. Sus bases de datos de conocimiento, mecanismos y herramientas se han creado con ese objetivo.
       p.mt-4 Asimismo, en la mente de los diseñadores del conjunto de la metodología, la necesidad de un método estructurado para el análisis y reducción de riesgos puede ser, en función de la organización:
       .col-8.offset-2.mt-5
-        img(src='@/assets/template/tema-2-16.png', alt='')
+        img(src='@/assets/template/tema-2-16.svg', alt='')
       p.mt-5 Con esto en mente, MEHARI proporciona un conjunto de enfoques y herramientas que permiten realizar un análisis de riesgos cuando es necesario.
       p.mt-4 La metodología MEHARI, que comprende las bases de datos de conocimiento, los manuales y las guías que describen los diferentes módulos (amenazas, riesgos, vulnerabilidades), se encuentra disponible para ayudar a las personas implicadas en la gestión de la seguridad (CISO, responsables de riesgos, auditores y CIO), en sus diferentes tareas y actividades.
 
@@ -370,7 +374,7 @@
       .col-11.border-y-morado.bg-amarillo-claro.p-4.mt-4.mx-5
         .row
           .col-12.col-md-8 
-            .h6 2.4.2.1 Análisis o evaluación de Riesgos
+            p #[strong 2.4.2.1 Análisis o evaluación de Riesgos]
             p.mt-3 Una situación de riesgo se puede caracterizar por diferentes factores:
             ul.lista-ul.px-4.mt-3
               li.mb-0 
@@ -391,7 +395,7 @@
             img(src='@/assets/template/tema-2-17.svg', alt='').w-75
       .col-11.border-y-morado.bg-amarillo-claro.p-4.mt-3.mx-5
         .row
-          .h6 2.4.2.2 Evaluaciones de Seguridad
+          p #[strong 2.4.2.1 Análisis o evaluación de Riesgos]
           .col-4.d-none.d-md-flex.px-5.mt-4
             img(src='@/assets/template/tema-2-18.svg', alt='').w-75
           .col-12.col-md-8.align-self-center
@@ -424,7 +428,7 @@
       .col-11.border-y-morado.bg-amarillo-claro.p-4.mt-3.mx-5
         .row
           .col-12.col-md-8 
-            .h6  2.4.2.3 Análisis de amenazas
+            p #[strong 2.4.2.2 Evaluaciones de Seguridad]
             p.mt-4 Sea cual sea la orientación de la política de seguridad, hay un principio en el que coinciden todos los responsables: debe existir un equilibrio entre las inversiones de seguridad por un lado y la importancia de los principales retos empresariales por el otro.
             p.mt-4 Esto significa que la comprensión de las amenazas del negocio es fundamental, y que el análisis del contexto de seguridad merece un nivel prioritario y un método estricto y riguroso de evaluación.
             p.mt-4 El fin del análisis de las amenazas de seguridad es responder a la siguiente doble pregunta ¿Qué puede suceder, y si sucede, puede ser serio?
@@ -448,12 +452,12 @@
     .row.mt-4
       p.text-center #[strong La siguiente imagen resume las características y procesos de mehari.]
       .col-10.mt-4.offset-1
-        img(src='@/assets/template/tema-2-20.png', alt='').w-100
+        img(src='@/assets/template/tema-2-20.svg', alt='').w-100
     .row
       .titulo-segundo.mt-5
         #t_2_5.h4 2.5 Identificación de amenazas
-      p.mt-4 Una amenaza es la posibilidad de ocurrencia de cualquier tipo de evento o acción que puede producir un daño (material o inmaterial) sobre los elementos de un sistema, en el caso de la Seguridad informática, los elementos de Información.
-      p.mt-4 Para el caso de SP-830 estas se categorizan en tres tipos: humanas, naturales y del entorno, y las siguientes son algunos ejemplos.
+      p.mt-4 Una Amenaza es la posibilidad de ocurrencia de cualquier tipo de evento o acción que puede producir un daño (material o inmaterial) sobre los elementos de un sistema, en el caso de la Seguridad informática, los Elementos de Información.
+      p.mt-4 Para el caso de SP-830 estas se categorizan en tres tipos: Humanas, naturales y del entorno, y las siguientes son algunos ejemplos.
     .tabla-a.mb-5.mt-4
       table
         thead(style="border-color: #FFC23B;")
@@ -465,157 +469,157 @@
             th Entorno
         tbody
           tr
-            td.bg-white
-              .col-10.offset-1.pt-2
+            td
+              .col-10.offset-1.pt-3 
                 i.fas.fa-angle-right.color-c.px-3
                 | Terremoto
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3 
                 i.fas.fa-angle-right.color-c.px-3
                 | Inundaciones
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3 
                 i.fas.fa-angle-right.color-c.px-3
                 | Tormentas eléctricas
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3 
                 i.fas.fa-angle-right.color-c.px-3
                 | Vendavales
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3 
                 i.fas.fa-angle-right.color-c.px-3
                 | Huracanes     
-            td.bg-white 
-              .col-10.offset-1.pt-2
+            td 
+              .col-10.offset-1.pt-3 
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Acceso no autorizado a la infraestructura
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3 
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Explotación de errores (usuario y administrador)
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Ingeniería social
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Malicia
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Virus informático (malware)
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Phishing
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Ingeniería social
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Denegación de servicio
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Spoofing
-            td.bg-white 
-              .col-10.offset-1.pt-2
+            td 
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Fallas eléctricas
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Polución
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Temperatura
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Incendios
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Control de humedad
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Edificaciones Cercanas
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Accidente de tránsito.
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Protección de los equipos en el sitio
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Fuentes de Potencia
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Seguridad de cableados
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Mantenimiento de equipos
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Ingreso no autorizado
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
                   .col-10
                     p Aseguramiento de oficinas, recintos y espacios físicos.
-              .col-10.offset-1.pt-2
+              .col-10.offset-1.pt-3
                 .row
                   .col-1
                     i.fas.fa-angle-right.color-c
@@ -645,14 +649,14 @@
                 p Polvo
     .row.mt-5
       .h5.mt-5 2.5.1 Evaluación de amenazas
-      p.mt-4 El proceso de valuación de las amenazas se hace para cada activo en cada una de las categorías al igual que en el caso anterior tomaremos como ejemplo una categoría para realizar el proceso.
-      p.mt-5.text-center #[strong Evaluación de amenazas]
+      p.mt-4 El proceso de evaluación de las amenazas se hace para cada activo en cada una de las categorías al igual que en el caso anterior tomaremos como ejemplo una categoría para realizar el proceso.
+      p.mt-5.text-center #[strong Evaluación de Amenazas]
       .col-8.offset-2
         .tabla-a.my-2
         table.border-table
           thead
             tr 
-              th(colspan = "5") Evaluación de amenazas
+              th(colspan = "5") Evaluación de Amenazas
             tr
               th Activo
               th A. Naturales
@@ -663,7 +667,7 @@
               th.text-left 
                 p #[strong Servidor]
               th 1
-              th 5
+              th 2
               th 3
               th 9
             tr
@@ -689,11 +693,11 @@
               th 4
     p.mt-5  De la tabla anterior se puede concluir que el activo llamado servidor es el que mayor valor en las amenazas tiene.   
     .h5.mt-5 2.5.2 Identificación de vulnerabilidades
-    p.mt-4 Las vulnerabilidades son debilidad de cualquier tipo que compromete la seguridad del sistema informático, para la identificación de vulnerabilidades se puede recurrir a dos estrategias distintas pero complementarias que son a partir de la utilización de herramientas tecnológicas que de manera automática pueden identificarlas, este proceso se realiza mediante el cumplimiento de técnicas de ethical hacking siguiendo una metodología para este proceso como ISSAF, OWASP, OSSTMM, entre otras.
-    p.mt-4 Sin embargo, existen vulnerabilidades que deben identificarlas y que ninguna herramienta tecnológica las puede detectar como las que se generan por problemas eléctricos, de control de acceso físico a servidores y equipos, falta de documentación de los procesos y procedimientos, entre otros que solo pueden identificarse mediante un análisis personal, observación directa, entrevista dirigida y otras estrategias de manera presencial.
+    p.mt-4 Las vulnerabilidades son debilidad de cualquier tipo que compromete la seguridad del sistema informático, para la identificación de vulnerabilidades se puede recurrir a dos estrategias distintas pero complementarias que son a partir de la utilización de herramientas tecnológicas que de manera automática pueden identificarlas, este proceso se realiza mediante el cumplimiento de técnicas de ethical hacking siguiendo una metodología para este proceso como ISAF, OWASP, OSSTMM, entre otras.
+    p.mt-4 Sin embargo, existen vulnerabilidades que deben identificadas y que ninguna herramienta tecnológica las puede detectar como las que se generan por problemas eléctricos, de control de acceso físico a servidores y equipos, falta de documentación de los procesos y procedimientos, entre otros que solo pueden identificarse mediante un análisis personal, observación directa, entrevista dirigida y otras estrategias de manera presencial.
     .row.mt-5
       .col-10.offset-1
-        img(src='@/assets/template/tema-2-21.png', alt='')
+        img(src='@/assets/template/tema-2-21.svg', alt='')
     p.mt-5 #[strong Análisis de controles]
     p.mt-4 En este apartado el estándar propone una actividad que corresponde a identificar y seleccionar los controles actuales y los controles planificados.
     p.mt-4 Los controles los podemos clasificar en técnicos, físicos y administrativos a continuación se mencionan algunos ejemplos de estos controles.
@@ -790,7 +794,7 @@
         table.border-table(style='width:100%;table-layout: auto;')
           thead
             tr 
-              th(rowspan = "2") Tipo de amenaza
+              th(rowspan = "2") Criterios para medir la probabilidad de las vulnerabilidades
               th(colspan = "3") Probabilidad de amenaza
             tr 
               th Alta
@@ -874,7 +878,7 @@
     p.mt-4 En caso de que haya afectaciones a los activos se debe determinar cuál es la afectación y grado de problema que podría causar en la organización, este grado de afectación puede medirse desde las consecuencias económicas, indisponibilidades de acceso entre otras.
     p.mt-4 El impacto debe medirse con base a los tres principios de la seguridad: la confidencialidad, la integridad y la disponibilidad.
     p.mt-4 El impacto se puede medir en tres niveles que son:
-    h6.text-center.mt-5 Criterios para determinar el Impacto
+    h6.text-center.mt-5 Criterios medición probabilidad
     .row
       .col-8.offset-2
         .tabla-a.my-3
@@ -884,21 +888,21 @@
           tbody  
             tr
               th
-                p.text-center ALTO
+                p.text-center ALTA
               th 
                 p En el corto plazo desmoviliza o desarticula a la organización.
             tr
               th
-                p.text-center MEDIO
+                p.text-center MEDIA
               th 
                 p Provoca la desarticulación de un componente de la organización. Si no se atiende a tiempo, a largo plazo puede provocar la desarticulación de la organización.
             tr
               th
-                p.text-center BAJO
+                p.text-center BAJA
               th 
                 p Causa daño aislado, que no perjudica a ningún componente de la organización.
     p.mt-4  A continuación, se presenta a manera de ejemplo como se puede realizar el proceso de evaluación del impacto.
-    h6.text-center.mt-5 Ejemplo Medición del Impacto
+    h6.text-center.mt-5 Probabilidad en las vulnerabilidades
     .row
       .col-10.offset-1
         .tabla-a.my-2
@@ -941,9 +945,6 @@
               th 
               th 
               th X
-    .h5.mt-5 2.5.5 Determinación del riesgo
-    p.mt-4  El riesgo es el efecto negativo cuando se produce un impacto sobre un activo, teniendo en cuenta tanto la probabilidad de la amenaza y el impacto de esta. Una efectiva administración de riesgos se necesita para evaluar y mitigar los riesgos identificados en la empresa.
-
     .row.mt-5
       .col-10.offset-1.rounded(style="background: linear-gradient(70deg, #9B235C, #531331);").px-5.py-4.mt-4
         .row
@@ -972,20 +973,20 @@
           tbody  
             tr
               th
-                p.text-center ALTO
+                p.text-center ALTA
               th 
                 p En el corto plazo desmoviliza o desarticula a la organización.
             tr
               th
-                p.text-center MEDIO
+                p.text-center MEDIA
               th 
                 p Provoca la desarticulación de un componente de la organización. Si no se atiende a tiempo, a largo plazo puede provocar la desarticulación de la organización.
             tr
               th
-                p.text-center BAJO
+                p.text-center BAJA
               th 
                 p Causa daño aislado, que no perjudica a ningún componente de la organización.
-    p.mt-5 A continuación, se presenta a manera de ejemplo como sería el proceso general de la valuación del riesgo.
+    p.mt-5 A continuación, se presenta a manera de ejemplo como sería el proceso general de la evaluación del riesgo.
     h6.text-center.mt-5 Ejemplo Evaluación del Riesgo
     .row
       .col-12
@@ -1115,7 +1116,7 @@
               .h5 Implantar medidas para mitigarlo
               p.mt-3 Por ejemplo, contratando un acceso a internet de respaldo para poder acceder a los servicios en la nube en caso de que la línea principal haya caído.
     .h5.mt-5 2.5.7 Documentación de resultados
-    p.my-3 En esta fase realizamos el informe correspondiente a la valoración de riesgos que incluye la valuación, el plan de tratamiento de riesgos incluyendo los controles a implementar.
+    p.my-3 En esta fase realizamos el informe correspondiente a la valoración de riesgos que incluye la evaluación, el plan de tratamiento de riesgos incluyendo los controles a implementar.
 
 </template>
 

@@ -1,7 +1,7 @@
 export const global = {
-  componenteFormativo: 'Metodologías de análisis y valuación de riesgos ',
+  componenteFormativo: 'Metodologías de análisis y evaluación de riesgos ',
   descripcionCurso:
-    'En el componente formativo se exponen las metodologías de análisis y valuación de activos más usadas en el desarrollo de sistemas de gestión de seguridad de la información y en particular se muestra el proceso utilizando para ello la NIST SP-830.',
+    'En el componente formativo se exponen las metodologías de análisis y evaluación de activos más usadas en el desarrollo de sistemas de gestión de seguridad de la información y en particular se muestra el proceso utilizando para ello la NIST SP-830.',
   imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
   fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   programaFormacion: 'Apropiación de los conceptos en ciberseguridad',
@@ -26,14 +26,14 @@ export const menuPrincipal = {
       icono: 'far fa-file-alt',
       numero: '1',
       titulo:
-        'Características de las metodologías de análisis y valuación de riesgos',
+        'Características de las metodologías de análisis y evaluación de riesgos',
       desarrolloContenidos: true,
       subMenu: [
         {
           icono: 'far fa-file-alt',
           numero: '1.1',
           titulo:
-            'Objetivos de las metodologías de análisis y valuación de activos ',
+            'Objetivos de las metodologías de análisis y evaluación de activos ',
           hash: 't_1_1',
         },
         {
@@ -48,7 +48,7 @@ export const menuPrincipal = {
       nombreRuta: 'tema2',
       icono: 'far fa-file-alt',
       numero: '2',
-      titulo: 'Metodologías de análisis y valuación de activos',
+      titulo: 'Metodologías de análisis y evaluación de activos',
       desarrolloContenidos: true,
       subMenu: [
         {
@@ -123,10 +123,15 @@ export const menuPrincipal = {
 
 export const creditos = {
   liderEquipo: {
-    nombre: 'Maria Camila Garcia Santamaria',
-    cargo: 'Líder del equipo',
+    nombre: 'Henry Eduardo Bastidas Paruma',
+    cargo: 'Instructor',
   },
   contenidoInstruccional: [
+    {
+      nombre: 'Carlos Andrés Rodríguez',
+      cargo: 'Diseñador Instruccional',
+      centro: 'Centro de Diseño y Metrología',
+    },
     {
       nombre: 'Rafael Neftalí Lizcano Reyes',
       cargo: 'Asesor pedagógico',
@@ -134,69 +139,10 @@ export const creditos = {
       regional: 'Regional Santander',
     },
     {
-      nombre: 'Henry Eduardo Bastidas Paruma',
-      cargo: 'Experta temático',
-      centro: 'Centro de Comercio y Servicios',
-      regional: 'Regional Tolima',
-    },
-    {
-      nombre: 'Carlos Andrés Rodríguez',
-      cargo: 'Diseñador Instruccional',
-      centro: 'Centro de Diseño y Metrología',
-      regional: 'Regional Distrito Capital',
-    },
-    {
       nombre: 'Oscar Absalón Guevara',
       cargo: 'Evaluador Instruccional',
-      centro: 'Centro de Gestión Industrial',
-      regional: 'Regional Distrito Capital',
-    },
-    {
-      nombre: 'María Isabel Román Rueda',
-      cargo: 'Revisora de estilo',
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
-    },
-  ],
-  desarrolloProducto: [
-    {
-      nombre: 'Francisco José Lizcano Reyes',
-      cargo: 'Responsable del equipo',
-    },
-    {
-      nombre: 'Leyson Fabian Castaño Perez',
-      cargo: 'Soporte organizacional',
-    },
-    {
-      nombre: [
-        'Eulises Orduz Amezquita',
-        'José Jaime Luis Tang Pinzón',
-        'Maria Camila Ovalle Ospina',
-        'Lady Adriana Ariza Luque',
-        'Oleg Litvin',
-        'Wilson Andres Arenales Cáceres',
-      ],
-      cargo: 'Diseño web y Producción Audiovisual',
-    },
-    {
-      nombre: [
-        'Daniel Ricardo Mutis Gómez',
-        'Jhon Jairo Urueta Alvarez',
-        'Lizeth Karina Manchego Suarez',
-      ],
-      cargo: 'Desarrollo Front-End',
-    },
-    {
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
-    },
-  ],
-  gestoresRepositorio: [
-    {
-      nombre: 'Milady Tatiana Villamil Castellanos',
-      cargo: ['Validación de recursos'],
-      centro: 'Centro de comercio y servicios',
-      regional: 'Regional Tolima',
+      centro: 'Centro de Gestión Industrial ',
+      regional: 'Regional Bogotá',
     },
   ],
 }

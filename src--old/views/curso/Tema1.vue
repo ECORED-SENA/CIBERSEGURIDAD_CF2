@@ -6,7 +6,7 @@
       .titulo-principal__numero
         .h3
           i.title-num 1
-      .h3 1. Características de las metodologías de análisis y valuación de riesgos
+      .h3 Características de las metodologías de análisis y evaluación de riesgos
     .row
       .col-12.col-lg-7.align-self-center
         p.mt-3 El análisis de riesgos informáticos es un proceso que comprende la identificación de activos informáticos, sus vulnerabilidades y amenazas a los que se encuentran expuestos, así como su probabilidad de ocurrencia y el impacto de las mismas, a fin de determinar los controles adecuados para aceptar, disminuir, transferir o evitar la ocurrencia del riesgo.
@@ -18,9 +18,9 @@
             img(src='@/assets/template/tema-1-1.svg', alt='Texto que describa la imagen')
 
           .imagen-titulo__titulo
-            .h4.m-0.text-white Análisis y valuación
+            .h4.m-0.text-white Análisis y evaluación
     .titulo-segundo.mt-5
-      #t_1_1.h4 1.1 Objetivos de las metodologías de análisis y valuación de activos 
+      #t_1_1.h4 1.1 Objetivos de las metodologías de análisis y evaluación de activos 
     p Tanto en las metodologías acá estudiadas como la que se desarrollará el ejemplo tienen por objetivo los siguientes puntos:
     .row.mt-5
       .tarjeta--container.row.mb-5
