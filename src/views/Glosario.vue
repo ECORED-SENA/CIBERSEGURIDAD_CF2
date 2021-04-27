@@ -26,7 +26,7 @@ export default {
   computed: {
     orderedData() {
       const sortedData = [...this.glosarioData].reduce((r, e) => {
-        const letra = e.termino[0].toLowerCase()
+        const letra = e.termino[0]
         if (!r[letra]) r[letra] = { letra, terminos: [e] }
         else r[letra].terminos.push(e)
         return r
@@ -52,7 +52,7 @@ export default {
           terminos = terminosOrdenados
         }
         newSortedData.push({
-          letra: letraObj.letra.UpperCase(),
+          letra: letraObj.letra,
           terminos: terminos,
         })
       })

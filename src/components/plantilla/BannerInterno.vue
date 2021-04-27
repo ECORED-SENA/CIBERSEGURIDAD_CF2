@@ -2,10 +2,10 @@
 .container-fluid.banner-interno
   .banner-interno__fondo(:style="{'background-image': `url(${globalData.fondoBannerPrincipal})`}")
   .container
-    .row
-      .banner-interno__titulo.py-4.col-12.col-sm-7
-        .banner-interno__titulo__icono.me-3(v-if="icono.length")
-          i(:class="icono")
+    .banner-interno__titulo.py-5
+      .banner-interno__titulo__icono.me-3(v-if="icono.length")
+        i(:class="icono")
+      h1.h3.mb-0 {{titulo}}
 </template>
 
 <script>
